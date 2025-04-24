@@ -1,8 +1,41 @@
-# builtbywill-projects
-Welcome.
+# BuiltByWill – E-Portfolio 💼
 
-This space will house a collection of my work — tests, builds, projects, and explorations — as I grow through my journey in tech.
+This is my personal e-portfolio website built with HTML and CSS, designed to showcase my skills, projects, and ongoing journey from logistics into front-end development.
 
-Every line of code and system crafted here is part of building a stronger tomorrow.
+---
 
-#BuiltByWill
+## 🚧 Project Status
+
+`[███████░░░░] 70%` – Core structure and responsive layout completed. Styling, polish, and mobile optimizations underway.
+
+---
+
+## 📁 Project Overview
+
+- `index.html`: Clean HTML structure using semantic tags
+- `style.css`: Custom styling with Flexbox and media queries
+- Fully responsive layout with mobile-first design
+- Custom animated logo and interactive nav bar
+- Sections: About, Tech Stack, Projects, Contact
+
+---
+
+## 🧠 Key Learnings
+
+- How to architect a personal website from scratch
+- Advanced Flexbox layout and responsive design techniques
+- Navbar link styling, image optimization, and layout spacing
+- Git and GitHub deployment workflow (init, push, commit flow)
+
+---
+
+## 📅 Date Started
+April 2025
+
+## 👨‍💻 Author
+**BuiltByWill**  
+GitHub: [github.com/builtbywilldev](https://github.com/builtbywilldev)
+
+---
+
+> “A portfolio isn’t just proof of code — it’s proof of transformation.”  
