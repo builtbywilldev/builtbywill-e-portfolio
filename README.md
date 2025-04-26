@@ -6,7 +6,7 @@ This is my personal e-portfolio website built with HTML and CSS, designed to sho
 
 ## 🚧 Project Status
 
-`[███████░░░░] 70%` – Core structure and responsive layout completed. Styling, polish, and mobile optimizations underway.
+`[███████████] 99%` – I am happy with how this looks for my first e-portfolio and i cannot wait to see what this looks like in a year! 
 
 ---
 
