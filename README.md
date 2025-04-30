@@ -12,6 +12,7 @@ This is my personal e-portfolio website built with HTML and CSS, designed to sho
 
 ## 📁 Project Overview
 
+- This showcases my first live website! https://www.silentprototype.com/
 - `index.html`: Clean HTML structure using semantic tags
 - `style.css`: Custom styling with Flexbox and media queries
 - Fully responsive layout with mobile-first design
